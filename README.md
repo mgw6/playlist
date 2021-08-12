@@ -1,5 +1,7 @@
 # Playlist Operations
 
+This program was as homework assignment for Data Structures an Algorithms (CSE 214) at Stony Brook University. Written in July 2020.
+
 The PlaylistOperations java application tests the methods of the Playlist
 class and allows the user to manipulate a single Playlist object by
 performing operations on it. 
