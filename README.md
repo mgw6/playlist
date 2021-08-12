@@ -5,7 +5,6 @@ class and allows the user to manipulate a single Playlist object by
 performing operations on it. 
 
 This program allows the user to:
-
   - Add song
 
   - Get a song at specified index
